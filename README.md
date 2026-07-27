@@ -1,3 +1,4 @@
+<img width="1330" height="599" alt="Screenshot (597)" src="https://github.com/user-attachments/assets/fce6af59-b198-41f9-a427-127b41cdfb26" />
 # Task API
 
 A simple in-memory CRUD API built with **FastAPI**, as part of the FlyRank Backend Internship — Week 2, Assignment A1.
@@ -52,3 +53,16 @@ content-type: application/json
 ## Swagger UI
 
 <img width="1353" height="649" alt="Screenshot (595)" src="https://github.com/user-attachments/assets/e2ed7ddf-d5f9-4e82-b9f2-7a2045482a26" />
+
+
+<img width="1330" height="599" alt="Screenshot (597)" src="https://github.com/user-attachments/assets/ddb50a28-95c0-4c25-af57-8512c4e881c1" />
+
+
+<img width="1330" height="610" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/0e1278e4-8f88-4121-9441-7bee1873d85b" />
+
+
+<img width="1318" height="634" alt="Screenshot (603)" src="https://github.com/user-attachments/assets/4ed97ea6-5c42-4a38-a949-ff73ee152b4f" />
+
+
+
+
